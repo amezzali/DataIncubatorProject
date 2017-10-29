@@ -1,2 +1,2 @@
 # DataIncubatorProject
-Images repository
+Temporary repository
